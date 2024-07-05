@@ -5,14 +5,14 @@ This project predicts house prices using machine learning regression models. It 
 
 ## Files Included
 - `house_price_prediction.ipynb`: Jupyter notebook containing the Python code for data preprocessing, model training, evaluation, and prediction.
-- `extracted_data/`: Directory where the extracted CSV files (`train.csv` and `test.csv`) from the competition are stored.
+- `house-prices-advanced-regression-techniques.zip/`: Directory where the extracted CSV files (`train.csv` and `test.csv`) are stored.
 
 ## Usage
 1. Open and run the `house_price_prediction.ipynb` Jupyter notebook.
 2. Follow the steps to:
    - Load and preprocess the data.
    - Explore data through visualizations and statistical summaries.
-   - Train and evaluate regression models (`LinearRegression`, `Ridge`, `Lasso`, `RandomForestRegressor`, `GradientBoostingRegressor`).
+   - Train and evaluate regression models (`LinearRegression`).
    - Make predictions on the test dataset.
    - Evaluate model performance using cross-validation and metrics like RMSE.
    - Visualize results and interpret model insights.
