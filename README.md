@@ -12,7 +12,7 @@ This project predicts house prices using machine learning regression models. It 
 2. Follow the steps to:
    - Load and preprocess the data.
    - Explore data through visualizations and statistical summaries.
-   - Train and evaluate regression models (`LinearRegression`).
+   - Train and evaluate regression model (`LinearRegression`).
    - Make predictions on the test dataset.
    - Evaluate model performance using cross-validation and metrics like RMSE.
    - Visualize results and interpret model insights.
